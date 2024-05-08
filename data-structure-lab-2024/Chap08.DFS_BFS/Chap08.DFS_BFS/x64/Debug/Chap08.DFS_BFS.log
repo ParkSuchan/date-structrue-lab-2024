@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\Location2D.h(12,25): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\Location2D.h(13,11): error C2065: 'row': 선언되지 않은 식별자입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\Location2D.h(13,27): error C2065: 'col': 선언되지 않은 식별자입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\Location2D.h(13,2): error C3861: 'retrun': 식별자를 찾을 수 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\Location2D.h(14,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\Location2D.h(14,1): warning C4508: 'neighbor': 함수는 값을 반환해야 하므로 'void' 반환 형식으로 간주됩니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(9,2): error C2059: 구문 오류: '{'
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(9,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(9,2): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(10,2): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(11,2): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(12,2): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(14,1): error C2059: 구문 오류: '}'
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(14,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(18,1): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(20,8): error C2065: 'Location20': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(20,2): error C2923: 'std::deque': 'Location20'은(는) '_Ty' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(20,8):
+  'Location20' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(20,2): error C2976: 'std::deque': 템플릿 인수가 너무 적습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\deque(588,7):
+  'std::deque' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(20,20): error C2133: 'locdeque': 알 수 없는 크기입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(20,20): error C2512: 'std::deque': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\deque(588,7):
+  'std::deque' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(22,2): error C2065: 'locDeque': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(22,27): error C2059: 구문 오류: ')'
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(22,29): error C3321: 이 컨텍스트에 예기치 않은 이니셜라이저 목록이 있습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(22,22): warning C4353: 비표준 확장을 사용했습니다. 함수 식으로 상수 0을 사용했습니다.  '__noop' 내장 함수를 대신 사용하십시오.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(25,2): error C2143: 구문 오류: ';'이(가) 'while' 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(25,19): error C2563: 정식 매개 변수 목록과 일치하지 않는 항목이 있습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(25,19): error C2568: ',': 함수 오버로드를 확인할 수 없습니다.
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(25,19):
+  'bool std::empty(std::initializer_list<_Elem>) noexcept'일 수 있습니다.
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(25,19):
+  또는       'bool std::empty(const _Ty (&)[_Size]) noexcept'
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(25,19):
+  또는       'unknown-type std::empty(const _Container &) noexcept(<expr>)'
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(27,10): error C2065: 'here': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(28,10): error C2065: 'here': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(30,38): error C2065: 'r': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(31,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(32,7): error C2065: 'r': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap08.DFS_BFS\Chap08.DFS_BFS\main.cpp(33,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
